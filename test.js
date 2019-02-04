@@ -1,4 +1,3 @@
-{
-  "test":"dfds",
-  "test2": 1234
-}
+var carName = "Volvo";
+
+console.log(carName)
